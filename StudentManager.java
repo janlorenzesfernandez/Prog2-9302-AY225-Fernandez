@@ -1,3 +1,4 @@
+//made by jan lorenze s fernandez
 import java.awt.*;
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -15,7 +16,7 @@ public class StudentManager extends JFrame {
     private JTextField txtGrade;
 
     public StudentManager() {
-        setTitle("Student Manager");
+        setTitle("Student Manager by Jan Lorenze S. Fernandez student id 25-2262-789");
         setSize(600, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
